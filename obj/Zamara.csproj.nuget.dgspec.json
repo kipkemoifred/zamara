@@ -1,24 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Zamara\\Zamara\\Zamara.csproj": {}
+    "c:\\Users\\user\\Desktop\\Zamara\\Zamara\\Zamara.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Zamara\\Zamara\\Zamara.csproj": {
+    "c:\\Users\\user\\Desktop\\Zamara\\Zamara\\Zamara.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Zamara\\Zamara\\Zamara.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Zamara\\Zamara\\Zamara.csproj",
         "projectName": "Zamara",
-        "projectPath": "C:\\Users\\user\\Desktop\\Zamara\\Zamara\\Zamara.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Zamara\\Zamara\\Zamara.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Zamara\\Zamara\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Zamara\\Zamara\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
@@ -34,6 +38,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

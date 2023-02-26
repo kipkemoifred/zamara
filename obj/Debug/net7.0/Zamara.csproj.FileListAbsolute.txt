@@ -29,3 +29,5 @@ C:\Users\user\Desktop\Zamara\Zamara\obj\Debug\net7.0\refint\Zamara.dll
 C:\Users\user\Desktop\Zamara\Zamara\obj\Debug\net7.0\Zamara.pdb
 C:\Users\user\Desktop\Zamara\Zamara\obj\Debug\net7.0\Zamara.genruntimeconfig.cache
 C:\Users\user\Desktop\Zamara\Zamara\obj\Debug\net7.0\ref\Zamara.dll
+C:\Users\user\Desktop\Zamara\Zamara\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Zamara\Zamara\obj\Debug\net7.0\Zamara.csproj.CopyComplete
